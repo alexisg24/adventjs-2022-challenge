@@ -1,14 +1,14 @@
 {
-  "name": "adventjs-2022",
+  "name": "adventjs-2022-challenge",
   "version": "1.0.0",
-  "description": "",
+  "description": "AdventJS 2022 Challenges Solutions, developed by gh:@alexisg24",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "echo \"Challenges: https://adventjs.dev/\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": ["AdventJS", "midudev", "typescript", "javascript", "js", "ts"],
+  "author": "Alexis Garcia. Twitter: @MasterCR_ GH: @alexisg24",
+  "license": "MIT",
   "devDependencies": {
     "typescript": "^4.9.3"
   }
