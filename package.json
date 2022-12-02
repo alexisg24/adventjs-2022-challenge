@@ -1,9 +1,11 @@
 {
   "name": "adventjs-2022-challenge",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "AdventJS 2022 Challenges Solutions, developed by gh:@alexisg24",
   "main": "index.js",
   "scripts": {
+    "build": "npx tsc --target es6",
+    "dev": "npx tsc --target es6 --watch",
     "start": "echo \"Challenges: https://adventjs.dev/\" && exit 1"
   },
   "keywords": ["AdventJS", "midudev", "typescript", "javascript", "js", "ts"],
