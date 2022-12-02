@@ -11,12 +11,12 @@
 # Content Table (EN)
 |  N° | Title | Difficult | Solution |
 | :------------: | :------------: | :------------: | :------------: |
-|  1 | Automating Christmas gift wrapping!  | Easy | [Solution 1](https://github.com/alexisg24/adventjs-2022-challenge/tree/main/challenge1 "Solution 1") |
+|  1 | Automating Christmas gift wrapping!  | Easy | [Solution 1](https://github.com/alexisg24/adventjs-2022-challenge/tree/main/challenges/challenge1 "Solution 1") |
 
 # Tabla de Contenido (ES)
 |  N° | Titulo | Dificultad | Solucion |
 | :------------: | :------------: | :------------: | :------------: |
-|  1 | ¡Automatizando envolver regalos de navidad!  | Fácil | [Solucion 1](https://github.com/alexisg24/adventjs-2022-challenge/tree/main/challenge1 "Solucion 1") |
+|  1 | ¡Automatizando envolver regalos de navidad!  | Fácil | [Solucion 1](https://github.com/alexisg24/adventjs-2022-challenge/tree/main/challenges/challenge1 "Solucion 1") |
 
 
 ### End / Fin
