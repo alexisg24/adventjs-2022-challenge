@@ -35,4 +35,4 @@ El papel de regalo es el símbolo * y para envolver un regalo se coloca el símb
 Como ves, el papel de regalo envuelve el string. Por arriba y por abajo, para no dejar ningún hueco, las esquinas también están cubiertas por el papel de regalo.
 
 ¡Suerte!
-###End / Fin
+### End / Fin
