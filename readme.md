@@ -17,6 +17,7 @@
 |  4 | Box inside a box and another...  | Medium | [Solution 4](https://github.com/alexisg24/adventjs-2022-challenge/tree/main/challenges/challenge4 "Solution 4") |
 |  5 | Optimizing Santa's trips  | Hard | [Solution 5](https://github.com/alexisg24/adventjs-2022-challenge/tree/main/challenges/challenge5 "Solution 5") |
 |  6 | Creating xmas decorations  | Medium | [Solution 6](https://github.com/alexisg24/adventjs-2022-challenge/tree/main/challenges/challenge6 "Solution 6") |
+|  7 | Doing gifts inventory  | Easy | [Solution 7](https://github.com/alexisg24/adventjs-2022-challenge/tree/main/challenges/challenge7 "Solution 7") |
 
 # Tabla de Contenido (ES)
 |  N° | Titulo | Dificultad | Solucion |
@@ -27,5 +28,6 @@
 |  4 | Una caja dentro de otra caja y otra...  | Media | [Solution 4](https://github.com/alexisg24/adventjs-2022-challenge/tree/main/challenges/challenge4 "Solution 4") |
 |  5 | Optimizando viajes de Santa  | Dificil | [Solution 5](https://github.com/alexisg24/adventjs-2022-challenge/tree/main/challenges/challenge5 "Solution 5") |
 |  6 | Creando adornos navideños  | Media | [Solution 6](https://github.com/alexisg24/adventjs-2022-challenge/tree/main/challenges/challenge6 "Solution 6") |
+|  7 | Haciendo inventario de regalos  | Fácil | [Solution 7](https://github.com/alexisg24/adventjs-2022-challenge/tree/main/challenges/challenge7 "Solution 7") |
 
 ### End / Fin
