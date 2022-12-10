@@ -20,6 +20,7 @@
 |  7 | Doing gifts inventory  | Easy | [Solution 7](https://github.com/alexisg24/adventjs-2022-challenge/tree/main/challenges/challenge7 "Solution 7") |
 |  8 | We need a mechanic!  | Medium | [Solution 8](https://github.com/alexisg24/adventjs-2022-challenge/tree/main/challenges/challenge8 "Solution 8") |
 |  9 | Crazy Xmas lights  | Easy | [Solution 9](https://github.com/alexisg24/adventjs-2022-challenge/tree/main/challenges/challenge9 "Solution 9") |
+|  10 | The Santa Claus sleigh jump  | Medium | [Solution 10](https://github.com/alexisg24/adventjs-2022-challenge/tree/main/challenges/challenge10 "Solution 10") |
 
 # Tabla de Contenido (ES)
 |  N° | Titulo | Dificultad | Solucion |
@@ -33,5 +34,6 @@
 |  7 | Haciendo inventario de regalos  | Fácil | [Solution 7](https://github.com/alexisg24/adventjs-2022-challenge/tree/main/challenges/challenge7 "Solution 7") |
 |  8 | ¡Necesitamos un mecánico!  | Media | [Solution 8](https://github.com/alexisg24/adventjs-2022-challenge/tree/main/challenges/challenge8 "Solution 8") |
 |  9 | Las locas luces de Navidad  | Fácil | [Solution 9](https://github.com/alexisg24/adventjs-2022-challenge/tree/main/challenges/challenge9 "Solution 9") |
+|  10 | El salto del trineo de Papá Noel  | Media | [Solution 10](https://github.com/alexisg24/adventjs-2022-challenge/tree/main/challenges/challenge10 "Solution 10") |
 
 ### End / Fin
