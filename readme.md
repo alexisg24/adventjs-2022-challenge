@@ -23,6 +23,7 @@
 |  10 | The Santa Claus sleigh jump  | Medium | [Solution 10](https://github.com/alexisg24/adventjs-2022-challenge/tree/main/challenges/challenge10 "Solution 10") |
 |  11 | Santa Claus is Scrum Master  | Hard | [Solution 11](https://github.com/alexisg24/adventjs-2022-challenge/tree/main/challenges/challenge11 "Solution 11") |
 |  12 | Electric sleighs, wow!  | Medium | [Solution 12](https://github.com/alexisg24/adventjs-2022-challenge/tree/main/challenges/challenge12 "Solution 12") |
+|  13 | Backups for Santa Claus files  | Easy | [Solution 13](https://github.com/alexisg24/adventjs-2022-challenge/tree/main/challenges/challenge13 "Solution 13") |
 
 # Tabla de Contenido (ES)
 |  N° | Titulo | Dificultad | Solucion |
@@ -39,5 +40,6 @@
 |  10 | El salto del trineo de Papá Noel  | Media | [Solution 10](https://github.com/alexisg24/adventjs-2022-challenge/tree/main/challenges/challenge10 "Solution 10") |
 |  11 | Papá Noel es Scrum Master  | Dificil | [Solution 11](https://github.com/alexisg24/adventjs-2022-challenge/tree/main/challenges/challenge11 "Solution 11") |
 |  12 | Trineos eléctricos, ¡guau!  | Media | [Solution 12](https://github.com/alexisg24/adventjs-2022-challenge/tree/main/challenges/challenge12 "Solution 12") |
+|  13 | Backup de los archivos de Papá Noel  | Fácil | [Solution 13](https://github.com/alexisg24/adventjs-2022-challenge/tree/main/challenges/challenge13 "Solution 13") |
 
 ### End / Fin
