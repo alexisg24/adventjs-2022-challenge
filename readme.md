@@ -27,6 +27,7 @@
 |  14 | The best path  | Medium | [Solution 14](https://github.com/alexisg24/adventjs-2022-challenge/tree/main/challenges/challenge14 "Solution 14") |
 |  15 | Decorating the Christmas tree  | Medium | [Solution 15](https://github.com/alexisg24/adventjs-2022-challenge/tree/main/challenges/challenge15 "Solution 15") |
 |  16 | Fixing Santa Claus' letters  | Hard | [Solution 16](https://github.com/alexisg24/adventjs-2022-challenge/tree/main/challenges/challenge16 "Solution 16") |
+|  17 | Carrying gifts in bags  | Medium | [Solution 17](https://github.com/alexisg24/adventjs-2022-challenge/tree/main/challenges/challenge17 "Solution 17") |
 
 # Tabla de Contenido (ES)
 |  N° | Titulo | Dificultad | Solucion |
@@ -47,5 +48,6 @@
 |  14 | El mejor camino  | Media | [Solution 14](https://github.com/alexisg24/adventjs-2022-challenge/tree/main/challenges/challenge14 "Solution 14") |
 |  15 | Decorando el árbol de Navidad  | Media | [Solution 15](https://github.com/alexisg24/adventjs-2022-challenge/tree/main/challenges/challenge15 "Solution 15") |
 |  16 | Arreglando las cartas de Papá Noel  | Dificil | [Solution 16](https://github.com/alexisg24/adventjs-2022-challenge/tree/main/challenges/challenge16 "Solution 16") |
+|  17 | Llevando los regalos en sacos  | Media | [Solution 17](https://github.com/alexisg24/adventjs-2022-challenge/tree/main/challenges/challenge17 "Solution 17") |
 
 ### End / Fin
