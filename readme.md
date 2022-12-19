@@ -28,6 +28,8 @@
 |  15 | Decorating the Christmas tree  | Medium | [Solution 15](https://github.com/alexisg24/adventjs-2022-challenge/tree/main/challenges/challenge15 "Solution 15") |
 |  16 | Fixing Santa Claus' letters  | Hard | [Solution 16](https://github.com/alexisg24/adventjs-2022-challenge/tree/main/challenges/challenge16 "Solution 16") |
 |  17 | Carrying gifts in bags  | Medium | [Solution 17](https://github.com/alexisg24/adventjs-2022-challenge/tree/main/challenges/challenge17 "Solution 17") |
+|  18 | We ran out of ink!  | Easy | [Solution 18](https://github.com/alexisg24/adventjs-2022-challenge/tree/main/challenges/challenge18 "Solution 18") |
+|  19 | Sorting the toys!  | Easy | [Solution 19](https://github.com/alexisg24/adventjs-2022-challenge/tree/main/challenges/challenge19 "Solution 19") |
 
 # Tabla de Contenido (ES)
 |  N° | Titulo | Dificultad | Solucion |
@@ -49,5 +51,7 @@
 |  15 | Decorando el árbol de Navidad  | Media | [Solution 15](https://github.com/alexisg24/adventjs-2022-challenge/tree/main/challenges/challenge15 "Solution 15") |
 |  16 | Arreglando las cartas de Papá Noel  | Dificil | [Solution 16](https://github.com/alexisg24/adventjs-2022-challenge/tree/main/challenges/challenge16 "Solution 16") |
 |  17 | Llevando los regalos en sacos  | Media | [Solution 17](https://github.com/alexisg24/adventjs-2022-challenge/tree/main/challenges/challenge17 "Solution 17") |
+|  18 | ¡Nos quedamos sin tinta!  | Fácil | [Solution 18](https://github.com/alexisg24/adventjs-2022-challenge/tree/main/challenges/challenge18 "Solution 18") |
+|  19 | Ordenando los regalos  | Fácil | [Solution 19](https://github.com/alexisg24/adventjs-2022-challenge/tree/main/challenges/challenge19 "Solution 19") |
 
 ### End / Fin
