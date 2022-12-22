@@ -31,6 +31,7 @@
 |  18 | We ran out of ink!  | Easy | [Solution 18](https://github.com/alexisg24/adventjs-2022-challenge/tree/main/challenges/challenge18 "Solution 18") |
 |  19 | Sorting the toys!  | Easy | [Solution 19](https://github.com/alexisg24/adventjs-2022-challenge/tree/main/challenges/challenge19 "Solution 19") |
 |  20 | More challenging trips  | Hard | [Solution 20](https://github.com/alexisg24/adventjs-2022-challenge/tree/main/challenges/challenge20 "Solution 20") |
+|  21 | Creating the gifts table  | Medium | [Solution 21](https://github.com/alexisg24/adventjs-2022-challenge/tree/main/challenges/challenge21 "Solution 21") |
 
 # Tabla de Contenido (ES)
 |  N° | Titulo | Dificultad | Solucion |
@@ -55,5 +56,6 @@
 |  18 | ¡Nos quedamos sin tinta!  | Fácil | [Solution 18](https://github.com/alexisg24/adventjs-2022-challenge/tree/main/challenges/challenge18 "Solution 18") |
 |  19 | Ordenando los regalos  | Fácil | [Solution 19](https://github.com/alexisg24/adventjs-2022-challenge/tree/main/challenges/challenge19 "Solution 19") |
 |  20 | Más viajes retadores  | Dificil | [Solution 20](https://github.com/alexisg24/adventjs-2022-challenge/tree/main/challenges/challenge20 "Solution 20") |
+|  21 | Creando la tabla de regalos  | Media | [Solution 21](https://github.com/alexisg24/adventjs-2022-challenge/tree/main/challenges/challenge21 "Solution 21") |
 
 ### End / Fin
