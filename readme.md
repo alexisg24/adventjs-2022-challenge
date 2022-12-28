@@ -32,6 +32,9 @@
 |  19 | Sorting the toys!  | Easy | [Solution 19](https://github.com/alexisg24/adventjs-2022-challenge/tree/main/challenges/challenge19 "Solution 19") |
 |  20 | More challenging trips  | Hard | [Solution 20](https://github.com/alexisg24/adventjs-2022-challenge/tree/main/challenges/challenge20 "Solution 20") |
 |  21 | Creating the gifts table  | Medium | [Solution 21](https://github.com/alexisg24/adventjs-2022-challenge/tree/main/challenges/challenge21 "Solution 21") |
+|  22 | The lights in sync  | Easy | [Solution 22](https://github.com/alexisg24/adventjs-2022-challenge/tree/main/challenges/challenge22 "Solution 22") |
+|  23 | Santa Claus Compiler  | Hard | [Solution 23](https://github.com/alexisg24/adventjs-2022-challenge/tree/main/challenges/challenge23 "Solution 23") |
+|  24 | The last challenge is a maze  | Hard | [Solution 24](https://github.com/alexisg24/adventjs-2022-challenge/tree/main/challenges/challenge24 "Solution 24") |
 
 # Tabla de Contenido (ES)
 |  N° | Titulo | Dificultad | Solucion |
@@ -57,5 +60,8 @@
 |  19 | Ordenando los regalos  | Fácil | [Solution 19](https://github.com/alexisg24/adventjs-2022-challenge/tree/main/challenges/challenge19 "Solution 19") |
 |  20 | Más viajes retadores  | Dificil | [Solution 20](https://github.com/alexisg24/adventjs-2022-challenge/tree/main/challenges/challenge20 "Solution 20") |
 |  21 | Creando la tabla de regalos  | Media | [Solution 21](https://github.com/alexisg24/adventjs-2022-challenge/tree/main/challenges/challenge21 "Solution 21") |
+|  22 | La iluminación en sintonía  | Fácil | [Solution 22](https://github.com/alexisg24/adventjs-2022-challenge/tree/main/challenges/challenge22 "Solution 22") |
+|  23 | Compilador de Papá Noel  | Dificil | [Solution 23](https://github.com/alexisg24/adventjs-2022-challenge/tree/main/challenges/challenge23 "Solution 23") |
+|  24 | El último reto es un laberinto  | Dificil | [Solution 24](https://github.com/alexisg24/adventjs-2022-challenge/tree/main/challenges/challenge24 "Solution 24") |
 
 ### End / Fin
